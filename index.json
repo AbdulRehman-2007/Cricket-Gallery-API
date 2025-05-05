@@ -1,0 +1,280 @@
+
+[
+    {
+       "image_id": 101,
+       "image_category": "Ehical hacking",
+       "image_url": "https://media.istockphoto.com/id/1220197174/photo/hacker-using-laptop.jpg?s=1024x1024&w=is&k=20&c=OmAXKCOscrFNJ0ARnI-FJ-Kvb2qRxb0v122Ojc4SvBQ=",
+       "image_description": "Identifies security flaws in systems before malicious hackers can exploit them"
+
+    },
+
+
+
+
+
+    {
+        "image_id": 102,
+        "image_category": "Ehical hacking",
+        "image_url": "https://img.freepik.com/free-photo/cybersecurity-concept-collage-design_23-2151877153.jpg?t=st=1746011595~exp=1746015195~hmac=9fa018ab6f9594114f29dbd4113c929712c0275706edd789b466b7817da3ae62&w=740",
+        "image_description": "Uses authorized tools to test network defenses and vulnerabilities legally."
+ 
+     },
+
+     {
+        "image_id": 103,
+        "image_category": "Ehical hacking",
+        "image_url": "https://img.freepik.com/premium-photo/hacker-hooded-dangerous-hacking-information-government-data-servers-get-password-insert-their-virus-system-unlock-break-down-personal-data-software_255544-251.jpg?w=740",
+        "image_description": "Simulates cyberattacks to help improve system and data security"
+     },
+
+     {
+        "image_id": 104,
+        "image_category": "Ehical hacking",
+        "image_url": "https://images.unsplash.com/photo-1669054626218-f0b57b8ec632?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_description": "Helps organizations strengthen cybersecurity through penetration testing."
+ 
+     },
+
+
+     {
+        "image_id": 105,
+        "image_category": "Ehical hacking",
+        "image_url": "https://media.istockphoto.com/id/1488329828/photo/hacker-hacker-hacks-network-hacker-on-a-dark-background-dangerous-hooded-hacker-breaks-into.jpg?s=1024x1024&w=is&k=20&c=CtT495FpPsOAD-lYTU_6YZuab1TAb8blDz10CGczErI=",
+        "image_description": "Protects sensitive data by finding and fixing security loopholes."
+ 
+     },
+
+
+     {
+        "image_id": 106,
+        "image_category": "Ehical hacking",
+        "image_url": "https://img.freepik.com/premium-photo/concept-hacker-internet-criminals-cyber-attack_99433-4954.jpg?w=740",
+        "image_description": "Detects weak spots in software, hardware, and networks before attackers do."
+ 
+     },
+     {
+        "image_id": 107,
+        "image_category": "Ehical hacking",
+        "image_url": "https://cdn.pixabay.com/photo/2023/09/19/15/41/ai-generated-8262919_1280.jpg",
+        "image_description": "Follows legal guidelines to ethically break into systems for testing."
+ 
+     },
+
+     {
+        "image_id": 108,
+        "image_category": "Ehical hacking",
+        "image_url": "https://media.istockphoto.com/id/1292951253/vector/hacker-in-a-hoodie.jpg?s=1024x1024&w=is&k=20&c=wSfRbLcsFnTEPxge4gcGRfjWejCPhWDZHIO1QxkW2z8=",
+        "image_description": "Offers insights into improving firewalls, encryption, and network defenses."
+ 
+     },
+
+     {
+        "image_id": 109,
+        "image_category": "Ehical hacking",
+        "image_url": "https://media.istockphoto.com/id/873806166/photo/cyber-attack-concept-cyber-crime-hacker-on-circle-global-network-with-lock-icon-and-shield.jpg?s=1024x1024&w=is&k=20&c=xzw3fXQuWH4355Cg5LSZhyMHhtV_K9Xw84zZgh-LIXg=",
+        "image_description": "Works closely with IT teams to resolve security issues responsibly."
+ 
+     },
+
+     {
+        "image_id": 110,
+        "image_category": "Ehical hacking",
+        "image_url": "https://media.istockphoto.com/id/1209082658/photo/finger-clicking-on-a-display-with-a-lock-icon-hud-display-showing-stages-of-hacking-in.jpg?s=1024x1024&w=is&k=20&c=0HJRzgltM91AM7tkIfKF2GsLwf-jE5cbEmx5jMYPFzE=",
+        "image_description": "Prevents cybercrimes by proactively identifying potential attack vectors."
+
+  },
+
+  {
+    "image_id": 111,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.unsplash.com/photo-1645081293338-6a648472a3b0?q=80&w=1372&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Deconstruct software to discover vulnerabilities or hidden features."
+
+},
+
+
+{
+    "image_id": 112,
+    "image_category": "Ehical hacking",
+    "image_url": "https://plus.unsplash.com/premium_photo-1663091633166-20ef12aa7b4e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Study trojans to understand their behavior and develop countermeasures."
+
+},
+
+
+{
+    "image_id": 113,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.unsplash.com/photo-1719255417989-b6858e87359e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Assess mobile applications for security flaws and data leaks."
+
+},
+
+
+
+{
+    "image_id": 114,
+    "image_category": "Ehical hacking",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661764393655-1dbffee8c0ce?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Dissect malware to learn how it works and how to defend against it."
+
+},
+
+
+
+
+{
+    "image_id": 115,
+    "image_category": "Ehical hacking",
+    "image_url": "https://plus.unsplash.com/premium_photo-1664299072583-584882c00a5f?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": " Examine cloud platforms for misconfigurations and data exposure."
+
+},
+
+
+
+{
+    "image_id": 116,
+    "image_category": "Ehical hacking",
+    "image_url": "https://plus.unsplash.com/premium_photo-1723662004634-c1ca73da354a?q=80&w=1542&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Test how attackers might gain higher-level system access improperly."
+    
+
+
+},
+
+
+{
+    "image_id": 117,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.unsplash.com/photo-1636793298539-63fda2e150fd?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Check system resistance to repeated login attempts with varied credentials."
+
+},
+
+
+
+{
+    "image_id": 118,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.unsplash.com/photo-1655500817791-a18d9e4ef837?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "if attackers can steal user sessions and impersonate identities."
+
+},
+
+{
+    "image_id": 119,
+    "image_category": "Ehical hacking",
+    "image_url": "https://plus.unsplash.com/premium_photo-1663100734030-59dc9cada2e3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Emulate ransomware to test backup and recovery readiness."
+
+},
+
+{
+    "image_id": 120,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.unsplash.com/photo-1627042013784-8483742812d1?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description": "Simulate unknown attacks to evaluate system resilience against new threats."
+
+},
+
+
+{
+    "image_id": 121,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_description": "Attempt unauthorized data extraction to test detection and prevention"
+},
+
+
+{
+    "image_id": 122,
+    "image_category": "Ehical hacking",
+    "image_url": "https://cdn.pixabay.com/photo/2016/03/31/09/25/deep-web-1292332_1280.jpg",
+    "image_description": " Simulate DoS to measure system tolerance under heavy load."
+
+},
+
+
+
+{
+    "image_id": 123,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": " Test if attackers can silently capture keystrokes from target systems."
+
+},
+
+
+
+{
+    "image_id": 124,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/5380621/pexels-photo-5380621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": " Examine logs for signs of intrusion and reconstruct attack vectors."
+
+},
+
+
+
+{
+    "image_id": 125,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": " Evaluate risks from unauthorized physical access to systems or facilities."
+
+},
+
+
+
+{
+    "image_id": 126,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": " Test Bluetooth devices for pairing vulnerabilities and eavesdropping risks."
+
+},
+
+
+
+{
+    "image_id": 127,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/6330644/pexels-photo-6330644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": "Examine Internet of Things gadgets for exploitable flaws."
+
+},
+
+
+
+{
+    "image_id": 128,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/5380590/pexels-photo-5380590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": " Check vulnerability to fake DNS responses redirecting users."
+
+},
+
+
+
+{
+    "image_id": 129,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": "Mimic ARP attacks to assess local network security."
+
+},
+
+
+
+{
+    "image_id": 130,
+    "image_category": "Ehical hacking",
+    "image_url": "https://images.pexels.com/photos/5240544/pexels-photo-5240544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image_description": " Document findings and offer actionable recommendations to strengthen"
+
+}
+
+
+
+]
